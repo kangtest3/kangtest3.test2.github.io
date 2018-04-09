@@ -1,1 +1,1 @@
-# kangtest3.test2.github.io
+这是一个github测试博客
